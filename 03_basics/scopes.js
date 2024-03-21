@@ -25,8 +25,7 @@ function first(){
 //first()
 
 
-if(true)
-const user="aashish"
+
 if(user==="aashish")
 function one(){
     const username = "hitesh"
